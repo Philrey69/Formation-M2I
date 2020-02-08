@@ -34,7 +34,7 @@ Editer package.json et insérer :
 
  Installer CORDOVA :
  ```bash
- npm intall cordova --save-dev
+ npm install cordova --save-dev
  ```
 puis
 ```bash
